@@ -1,0 +1,52 @@
+---
+homebrew_installed_packages:
+  # - ansible # Installed via Pip.
+  - docker
+  - flux
+  - git
+  - git-lfs
+  - jq
+  - kind
+  - kubectx
+  - kubernetes-cli
+  - kubeseal
+  - kustomize
+  - mas
+  - minikube
+  - packer
+  - starship
+  - terraform
+  - tfswitch
+  - vim
+  - watch
+  - yq
+  - zsh
+
+homebrew_taps:
+  - homebrew/cask
+  - homebrew/cask-fonts
+
+homebrew_cask_apps:
+  - evernote
+  - google-chrome
+  - google-cloud-sdk
+  - iterm2
+  - lens
+  - microsoft-remote-desktop
+  - notion
+  - postman
+  - spotify
+  - slack
+  - telegram
+  - transmit
+  - vagrant
+  - visual-studio-code
+  - virtualbox
+
+mas_signin_dialog: true
+
+mas_installed_apps: 
+  - { id: 1333542190, name: "1Password 7 - Password Manager"}
+  - { id: 937984704, name: "Amphetamine"}
+  - { id: 441258766, name: "Magnet"}
+  - { id: 497799835, name: "Xcode (8.1)" }

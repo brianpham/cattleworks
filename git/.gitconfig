@@ -1,0 +1,14 @@
+[user]
+        name = Brian Pham
+        email = brianpham827@gmail.com
+        signingkey = 4170D1A60A64BDEC
+[core]
+        editor = vim
+[filter "lfs"]
+        clean = git-lfs clean -- %f
+        smudge = git-lfs smudge -- %f
+        process = git-lfs filter-process
+        required = true
+[commit]
+        gpgsign = true
+[gpg]
