@@ -11,3 +11,23 @@
     - role: geerlingguy.mac.mas
       when: mas_installed_apps
       tags: ['mas']
+
+  tasks:
+    - name: Install oh-my-zsh
+      git:
+        repo: https://github.com/ohmyzsh/ohmyzsh.git
+        dest: ~/.oh-my-zsh
+        depth: 1
+
+    # Copy .zshrc config
+    # Copy p10k.zsh config
+    # Copy iterm default.json
+    # Copy monokai_pro.itermcolors
+    # Copy config for highfive
+    # Copy aws config for highfive
+
+    - name: Install powerlevel10k
+      git:
+        repo: https://github.com/romkatv/powerlevel10k.git
+        dest: ~/.powerlevel10k
+        depth: 1

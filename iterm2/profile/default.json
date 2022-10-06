@@ -429,7 +429,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.3803921639919281
   },
-  "Name" : "Dev",
+  "Name" : "Default",
   "Blinking Cursor" : false,
   "Guid" : "B557FAB9-8FEC-4B30-AE99-F4AA4F115DFD",
   "Idle Code" : 0,
@@ -501,11 +501,11 @@
   },
   "Transparency" : 0,
   "Background Color" : {
-    "Red Component" : 0.17254902422428131,
+    "Red Component" : 0.06711946427822113,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.26274511218070984,
+    "Blue Component" : 0.101898193359375,
     "Alpha Component" : 1,
-    "Green Component" : 0.21176470816135406
+    "Green Component" : 0.082240648337095865
   },
   "Screen" : -1,
   "Initial Use Transparency" : false,

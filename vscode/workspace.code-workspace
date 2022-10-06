@@ -1,0 +1,66 @@
+{
+	"folders": [
+		{
+			"name": "cattleworks",
+			"path": ".."
+		},
+		{
+			"name": "firespotter",
+			"path": "../../../dialpad/firespotter"
+		},
+		{
+			"name": "o11y-infra",
+			"path": "../../../dialpad/o11y-infra"
+		},
+		{
+			"name": "ucr-infra",
+			"path": "../../../dialpad/ucr-infra"
+		},
+		{
+			"path": "../../../highfive/md"
+		},
+		{
+			"path": "../../../highfive/bootstrap/fatline"
+		},
+		{
+			"path": "../../../dialpad/servers"
+		},
+		{
+			"path": "../../../talkiq/terraform"
+		},
+		{
+			"path": "../../../highfive/skopos"
+		},
+		{
+			"path": "../../../dialpad/m3"
+		},
+		{
+			"path": "../../../highfive/desktop-app"
+		},
+		{
+			"path": "../../serenity"
+		},
+		{
+			"path": "../../../dialpad/terraform-google-modules"
+		},
+		{
+			"path": "../../fluxcd-playground"
+		},
+		{
+			"path": "../../../dialpad/msp-infra"
+		},
+		{
+			"path": "../../cloud-nuke"
+		},
+		{
+			"path": "../../teslafi_exporter"
+		},
+		{
+			"path": "../../../highfive/infra"
+		},
+		{
+			"path": "../../super-simple-app"
+		}
+	],
+	"settings": {}
+}
