@@ -60,6 +60,21 @@
 		},
 		{
 			"path": "../../super-simple-app"
+		},
+		{
+			"path": "../../../opentelemetry-operator"
+		},
+		{
+			"path": "../../../dialpad/dialpad-gcp-iam"
+		},
+		{
+			"path": "../../../dialpad/terraform-dialpad-iam"
+		},
+		{
+			"path": "../../semantic-release"
+		},
+		{
+			"path": "../../../dialpad/scratch-deployment"
 		}
 	],
 	"settings": {}
