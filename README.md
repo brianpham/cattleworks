@@ -16,3 +16,5 @@ Macbook automation & configuration
 5. Run `ansible-playbook main.yaml --ask-become-pass`
 
 ## Manual Setup
+
+todo: Add instructions for ohmyzsh and pk10
