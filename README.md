@@ -14,3 +14,5 @@ Macbook automation & configuration
 3. Run `git clone git@github.com:brianpham/cattleworks.git && cd "$(basename "$_" .git)"`
 4. Run `cd ansible && ansible-galaxy install -r requirements.yml`
 5. Run `ansible-playbook main.yaml --ask-become-pass`
+
+## Manual Setup
