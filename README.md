@@ -2,8 +2,6 @@
 
 Macbook automation & configuration
 
-**OUTDATED**
-
 ## Initial Setup
 
 1. Install the Xcode Command Line Tools by running `xcode-select --install`.
