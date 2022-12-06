@@ -18,3 +18,12 @@ Macbook automation & configuration
 ## Manual Setup
 
 todo: Add instructions for ohmyzsh and pk10
+
+## Store your GPG key passphrase so you don't need to enter everytime you sign a commit using gpg-agent
+
+brew install pinentry-mac
+echo "pinentry-program $(brew --prefix)/bin/pinentry-mac" | tee ~/.gnupg/gpg-agent.conf
+pkill -TERM gpg-agent
+
+
+echo test | gpg -e -r brianpham@gmail.com | gpg -d
